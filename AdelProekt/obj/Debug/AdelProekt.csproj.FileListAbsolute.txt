@@ -1,0 +1,10 @@
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\bin\Debug\AdelProekt.exe.config
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\bin\Debug\AdelProekt.exe
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\bin\Debug\AdelProekt.pdb
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.csprojAssemblyReference.cache
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.Properties.Resources.resources
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.csproj.GenerateResource.cache
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.csproj.CoreCompileInputs.cache
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.exe
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.pdb
+C:\Users\Ильдар\source\repos\AdelProekt\AdelProekt\obj\Debug\AdelProekt.Form1.resources
