@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace AdelProekt
 {
+    as;gadobmj
     delegate void Действие(); // обьявление делегата 
     public partial class Form1 : Form // создание обьектов в форме
     {
